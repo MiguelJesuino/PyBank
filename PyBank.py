@@ -7,7 +7,6 @@ class Banco:
         self.main()
 
     def deposito(self):
-        self.conta = 0
         depositos = []
         opc = ""
         dps = 0
