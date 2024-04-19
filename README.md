@@ -34,17 +34,11 @@ PyBank é um simulador de sistema bancário desenvolvido como parte do Desafio P
 1. Clone este repositório ou faça o download do código-fonte.
 2. Certifique-se de ter o Python 3.11 instalado.
 3. Instale a biblioteca `colorama` usando o comando `pip install colorama`.
-4. Execute o arquivo `PybankV2.py` no terminal ou em um ambiente Python.
-
-## Exemplo de Uso
-Linha de comando: 
-```shell
-python PybankV2.py
-```
+4. Execute o arquivo `PybankV2.py` com o comando `python3 PybankV2.py`
 
 ## Contribuições
 
-Contribuições são bem-vindas! Sinta-se à vontade para abrir um pull request com melhorias, correções ou novas funcionalidades.
+Este pequeno projeto foi desenvolvido para fins didáticos, como uma atividade de um curso. Sinta-se à vontade para acrescentar ideias ou fazer modificações.
 
 ## Licença
 
